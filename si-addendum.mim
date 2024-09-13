@@ -162,13 +162,13 @@
  (second
   (dependent (shift init))
   (rakaransha (shift fourth))
-  (yansha)
+  (yansha (shift third))
  )
  (third
   (dependent (shift init))
  )
  (fourth
-  (iru)
+  (iru (shift init))
   (dependent (shift init))
  )
 )
