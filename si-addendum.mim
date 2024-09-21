@@ -76,7 +76,7 @@
   ("h" "හ්")	("H" "හ්")	 ; 0x0dc4 - hayanna (ha)
   ("L" "ළ්")		; 0x0dc5 - muurdhaja layanna (lla)
   ("f" "ෆ්")	("F" "ෆ්")	; 0x0dc6 - fayanna (fa)
-  ("Ksha" "ක්‍ෂ‍්")		; - xayanne (xa)
+  ("Ksh" "ක්‍ෂ‍්")		; - xayanne (xa)
  )
 
  (independent
