@@ -1,9 +1,9 @@
 # Sinhala Addendum Phonetic Input Method : Usage Guide
-If you are familiar with typing "Singlish" (Romanized/Transliterated Sinhala), it shouldn't be too dificult for you to get hang off this input method.
-But because various limitations, there are slight differences in the tranliteration scheme here compared to how people would naturally transliterate (with pre-nasals, or aspirates for example)
+If you are familiar with typing "Singlish" (Romanized/Transliterated Sinhala), it shouldn't be too dificult for you to get hang of this input method.
+But due to various limitations, there are slight differences in the tranliteration scheme used in this input method compared to how people would naturally transliterate (with pre-nasals, or aspirates for example)
 
 ## Vowels 
-Any vowel letter at the start of a word should be inputed as its letter form, while if you type a vowel letter after a consonant, it should trigger the respective vowel diacritic.
+Any vowel letter at the start of a word should be inputted in its letter form, while if you type a vowel letter after a consonant, it should trigger the respective vowel diacritic.
 
 
 | Input Chars   | Output Chars | Special notes                                                                                                       |
