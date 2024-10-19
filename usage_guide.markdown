@@ -11,7 +11,7 @@ Any vowel letter at the start of a word should be inputted in its letter form, w
 | a             |  අ           |                                                                                                                     |
 | aa            | ආ            | Uppercase `A` is reserved for the `æ` sound                                                                             |
 | A / ae        |  ඇ           |                                                                                                                     |
-| AA / Aa / aee |              |                                                                                                                     |
+| AA / Aa / aee |  ඈ            |                                                                                                                     |
 | i             |  ඉ           |                                                                                                                     |
 | ii / I        | ඊ            |                                                                                                                     |
 | u             |  උ           |                                                                                                                     |
